@@ -16,3 +16,6 @@ sudo curl -SL https://github.com/docker/compose/releases/download/v2.3.3/docker-
 
 #Check docker compose version
 sudo docker-compose --version
+
+#Display a message
+echo "Thank you for the task! I enjoyed it"
